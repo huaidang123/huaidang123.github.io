@@ -6,21 +6,17 @@
     <atom:link href="https://huaidang123.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>用连续的眼光看世界</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 02:15:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 02:50:07 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
       <title>一个理想的开源电子设计自动化 (EDA) 软件</title>
       <link>https://huaidang123.github.io/about_kicad</link>
-      <description><![CDATA[<pre><code>
-</code></pre>
-<pre><code>
-</code></pre>
-<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQd0fKpn1aD827qOc4SZYuruZ7J4cXLf9W61Q_PzMIOA&amp;s" alt="File:KiCad-Logo.svg - 维基百科，自由的百科全书"></p>
+      <description><![CDATA[<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQd0fKpn1aD827qOc4SZYuruZ7J4cXLf9W61Q_PzMIOA&amp;s" alt="File:KiCad-Logo.svg - 维基百科，自由的百科全书"></p>
 <p>KiCad 提供了丰富的设计工具和功能，包括原理图绘制、电路仿真、PCB 布局、封装设计、设计规则检查、导出制造文件等，使得用户可以在一个集成的环境中完成整个电子设计流程。</p>]]></description>
       <author>huaidang</author>
       <guid>https://huaidang123.github.io/about_kicad</guid>
       <category>KiCad</category>
-      <pubDate>Thu, 14 Mar 2024 02:15:19 +0800</pubDate>
+      <pubDate>Thu, 14 Mar 2024 02:47:55 +0800</pubDate>
     </item>
     <item>
       <title>世界，你好！</title>
